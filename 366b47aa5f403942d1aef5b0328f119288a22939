@@ -1,4 +1,5 @@
 {
   "pushCert": "certificate version 0.1\npusher Christian Oder \u003cmyself5@carbonrom.org\u003e 1685061180 +0200\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_packages_modules_Wifi\nnonce 1685061180-457832297211D1FAE5B2D95A1ABE3840A592419D\n\n0000000000000000000000000000000000000000 366b47aa5f403942d1aef5b0328f119288a22939 refs/for/cr-11.0%topic\u003d13-qcom-wfd\n-----BEGIN PGP SIGNATURE-----\n\niQJKBAABCgA0FiEEAeKysoG6T9uCVbCUU4O8v8DvjyIFAmRv/jwWHG15c2VsZjVA\nY2FyYm9ucm9tLm9yZwAKCRBTg7y/wO+PIoatD/wO4EnkTH8/lAPSp9sF+mj83BSc\nPCmqC+4dVhqjoYODlW2Ye+QGr8zHYqfxHik4l8GmBRhK3oOAq40NrdNZGPIGPvVc\nFaQ80hYP6FUgmoq4xwAUSmyWJMqP068PXWur88PpZRMfubklyNQr2RCjlg4lcb0H\nCDs/lN++LRgqmdwmFL9HPzYh12oApJ4wboV5rElB0QX1GHs0CxefGqvon87HWhdL\nrnpmzfH87SOAcqVLohxMlaHMyctAegc9UQUvuWfySUK3lcWzJSfKOy+93MrfV8Jx\nqK3TvjauSOMQzpUt8y+kJe86cMUWLP8XYaUD2b39OlhlNUtPlOoJJhdDRiaaLATF\n9wuggtCwIVBTuMAg1FSrgp2mgfnnZrAMdoRaueXtcu87YKfs4GXIsGa52IJsC8Fy\nk/F+1zeapftndAovNi1wJAPWfBKMpPJDlMRTuavbw3j+AiCbGSKfKq3V/1YiQ8Z+\nWL3WJHGxxX3treDRbJ6RrcBzVRwMRcsgmiYmpMy3/ZVLNZDJiAhowppsktqzGJW+\nac60PERXcuGuBbU6UU2BXFJswQ8sXSpdmYTY0bMjicXy+12REU53/8A2K0gx3hha\nTltn9Pkvwk1lOs0NkVV9QBm58S33SvrxPq7vK+Jiv57/edm4FaylRnlyCsevyTMc\ncGkhSlMfaqLE832flg\u003d\u003d\n\u003dJKIS\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [],
+  "submitRequirementResults": []
 }
